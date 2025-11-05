@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Pedro Henrique
+ro# 👋 Olá, eu sou o Pedro Henrique
 
 💻 **Desenvolvedor Web Fullstack** com foco em **Django, JavaScript e integração de APIs**.  
 Sou movido pelo desafio de transformar ideias em soluções práticas e eficientes — da concepção à implementação.
@@ -48,9 +48,9 @@ Busco sempre:
 
 ### 📊 Estatísticas
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroHAquino&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHAquino&layout=compact&theme=tokyonight)
 
 ---
 
