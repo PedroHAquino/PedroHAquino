@@ -56,9 +56,8 @@ Busco sempre:
 
 ### 🌐 Vamos nos conectar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-LINK-AQUI)
-- 🐍 [Portfólio / Projetos Django](https://github.com/SEU_USUARIO?tab=repositories)
-- ✉️ Contato: **SEUEMAIL@EXEMPLO.COM**
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedrohaquino/)
+- ✉️ Contato: **aquinopedro36@gmail.com**
 
 ---
 
